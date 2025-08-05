@@ -77,6 +77,7 @@ npm run dev
 
 **Jayditch Balansi**
 Backend | Laravel & Node.js | API Integrations
+
 🔗 [GitHub](https://github.com/jayditch121998)
 
 📧 [balansijayditch@gmail.com](balansijayditch@gmail.com)
