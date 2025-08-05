@@ -55,7 +55,7 @@ Create a `.env` file in the root:
 ```env
 URL=http://127.0.0.1:8000/api/content/send
 AUTH_TOKEN=your-api-token-here
-
+```
 
 ## 🛠️ Setup
 
